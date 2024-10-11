@@ -19,12 +19,14 @@
 </p>
 
 ## 💻 Programming
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/cachecrew.com/blog/wp-content/uploads/2023/03/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?fit=528%2C528&ssl=1" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/cachecrew.com/blog/wp-content/uploads/2023/03/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?fit=528%2C528&ssl=1" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/svg12/azure_sql_database_logo_freelogovectors.net.svg" alt="sql" width="40" height="40"/> </a>
 
 ## ♾️ CI/CD
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:400/1*txwKGJOoQ2W0ka_9htbu0Q.png" alt="GitHubActions" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-ansible-icon-256x256-ubp9wpth.png" alt="ansible" width="40" height="40"/> </a>
@@ -35,11 +37,21 @@
 <a href="https://jfrog.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jfrog-logo-BECF90A154-seeklogo.com.png" alt="jfrog" width="40" height="40"/> </a>
 
 ## ☁️ Cloud & Datebase 🛢️
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb" width="40" height="40"/> </a> 
 
 ## 🛠️ Tools
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="windows" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-nginx-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945048.png?f=webp&w=256" alt="nginx" width="40" height="40"/> </a>
 <a href="https://gunicorn.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/gunicorn-icon-2048x1245-14wjcllu.png" alt="gunicorn" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+## </> GitHub Profile Stats
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niv-devops&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niv-devops&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="niv-devops's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=niv-devops&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
