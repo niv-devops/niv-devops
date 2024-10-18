@@ -43,7 +43,7 @@
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/uipath/optimized/3X/5/4/5461df8fd2fe783981b0180332821184b729980e_2_500x500.png" alt="elkstack" width="40" height="40"/> </a>
 <a href="https://jfrog.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jfrog-logo-BECF90A154-seeklogo.com.png" alt="jfrog" width="40" height="40"/> </a>
 
-## ☁️ Cloud & Datebase 🛢️
+## ☁️ Cloud & Database 🛢️
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> </a>
 <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://www.cloudcomputing-news.net/wp-content/uploads/2022/02/vmware-logo.png" alt="vmwware" width="40" height="40"/> </a>
