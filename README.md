@@ -36,6 +36,7 @@
 ## ♾️ CI/CD
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:400/1*txwKGJOoQ2W0ka_9htbu0Q.png" alt="GitHubActions" width="40" height="40"/> </a>
+<a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://metakube.com/content/images/2023/02/argo-icon-color.png" alt="ArgoCD" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" alt="helm" width="40" height="40"/> </a>
