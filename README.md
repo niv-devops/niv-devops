@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/niv-devops"><img width="35px" alt="GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://niv-devops.github.io"><img width="35px" alt="GitHubPages" title="GitHub-Pages" src="https://cdn-icons-png.flaticon.com/512/10001/10001405.png"/></a>
+  <a href="https://niv-devops.github.io"><img width="35px" alt="GitHubPages" title="GitHub-Pages" src="https://cdn-icons-png.freepik.com/512/8063/8063171.png"/></a>
 </p>
 
 <p align="center">
