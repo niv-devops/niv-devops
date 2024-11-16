@@ -8,9 +8,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/niv-zilberman/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://niv-devops.github.io"><img width="35px" alt="GitHubPages" title="GitHub-Pages" src="https://cdn-icons-png.freepik.com/512/8063/8063171.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/niv-devops"><img width="35px" alt="GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://niv-devops.github.io"><img width="35px" alt="GitHubPages" title="GitHub-Pages" src="https://cdn-icons-png.freepik.com/512/8063/8063171.png"/></a>
+  <a href="https://gitlab.com/realgoofy"><img width="35px" alt="GitLab" title="GitLab" src="https://img.icons8.com/nolan/200/gitlab.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://hub.docker.com/u/devopsgoofy"><img width="40px" alt="DockerHub" title="DockerHub" src="https://miro.medium.com/v2/resize:fit:601/0*1XzkA-KeQkc2ugix.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://artifacthub.io/packages/search?user=goofy&sort=relevance&page=1"><img width="30px" alt="HelmCharts" title="HelmCharts" src="https://artifacthub.io/static/media/placeholder_pkg_helm.png"/></a>
 </p>
 
 <p align="center">
@@ -41,7 +47,7 @@
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:400/1*txwKGJOoQ2W0ka_9htbu0Q.png" alt="GitHubActions" width="40" height="40"/> </a>
 <a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-circleci-icon-252x256-0nzrwpuu.png" alt="CircleCI" width="40" height="40"/> </a>
 <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://metakube.com/content/images/2023/02/argo-icon-color.png" alt="ArgoCD" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:601/0*1XzkA-KeQkc2ugix.png" alt="docker" width="50" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" alt="helm" width="40" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-ansible-icon-256x256-ubp9wpth.png" alt="ansible" width="40" height="40"/> </a>
