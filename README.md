@@ -68,7 +68,8 @@
 <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"> <img src="https://www.univio.com/wp-content/uploads/2023/07/GCP-Logo-sygnet-1.png" alt="gcp" width="40" height="40"/> </a>
 <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://www.cloudcomputing-news.net/wp-content/uploads/2022/02/vmware-logo.png" alt="vmwware" width="40" height="40"/> </a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.clever-cloud.com/uploads/2023/03/mysql.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/> </a>
 
 ## 🛠️ Tools
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
