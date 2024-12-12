@@ -59,6 +59,7 @@
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/uipath/optimized/3X/5/4/5461df8fd2fe783981b0180332821184b729980e_2_500x500.png" alt="elkstack" width="40" height="40"/> </a>
 <a href="https://jfrog.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jfrog-logo-BECF90A154-seeklogo.com.png" alt="jfrog" width="40" height="40"/> </a>
+<a href="https://help.sonatype.com/en/sonatype-nexus-repository.html" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:256/1*2b4k1_SmKkNRgqZV-NMFQg.png" alt="nexus" width="40" height="40"/> </a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.zeespire.com/assets/images/posts/0013/maven.png" alt="maven" width="40" height="40"/> </a>
 <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-gradle-2-1174969.png" alt="gradle" width="40" height="40"/> </a>
 
@@ -91,6 +92,7 @@
 <a href="https://slack.com" target="_blank" rel="noreferrer"> <img src="https://www.steel-eye.com/hubfs/Slack%20Logo.png" alt="slack" width="40" height="40"/> </a>
 <a href="https://netflix.github.io/chaosmonkey/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/C5612AQG3tvjyBHOGqw/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1589904203932?e=1735171200&v=beta&t=L-qRQKycE-4OzBQaLV92BP9D48mmJB0X8tQR-Ium3Ls" alt="chaosMoneky" width="40" height="40"/> </a>
 <a href="https://www.checkov.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:861/1*pCFbZ09LlUJpQdR21nnH0Q.png" alt="checkov" width="40" height="40"/> </a>
+<a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"> <img src="https://www.terasky.com/wp-content/uploads/Group-463-1.svg" alt="hcvault" width="40" height="40"/> </a>
 
 ## 🎓 Certificates
 <a href="https://www.credly.com/badges/6479e509-b1a1-4fa6-897b-a9df93da6d7f/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="ccp" width="100" height="100"/> </a>
