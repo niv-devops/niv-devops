@@ -99,7 +99,7 @@
 
 ## </> GitHub Profile Stats
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=ambient_gradient)](https://github.com/niv-devops/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niv-devops&layout=donut&theme=ambient_gradient)](https://github.com/niv-devops/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niv-devops&show_icons=true&theme=radical)
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
