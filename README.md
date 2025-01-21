@@ -1,8 +1,4 @@
-<head>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-</head>
-
-<h1 align="center" style="color: #FFEA00;">Howdy Pal 🤠 Niv's DevOps Repo</h1>
+<h1 align="center">Howdy Pal 🤠 Niv's DevOps Repo</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=19F302&center=true&vCenter=true&width=435&lines=DevOps+Practitioner;Ex+Venture+Capital+Analyst;Always+Learning+New+Things!" alt="Typing SVG" /></a>
@@ -32,10 +28,10 @@
 
 <table>
   <tr>
-    <th align="center" style="color: #00ffff;">💻 Programming</th>
-    <th align="center" style="color: #0088ff;">♾️ CI/CD</th>
-    <th align="center" style="color: #8000ff;">☁️ Cloud & Database 🛢️</th>
-    <th align="center" style="color: #ff0080;">🛠️ Tools</th>
+    <th align="center" style="width: 25%;">💻 Programming</th>
+    <th align="center" style="width: 25%;">♾️ CI/CD</th>
+    <th align="center" style="width: 25%;">☁️ Cloud & Database 🛢️</th>
+    <th align="center" style="width: 25%;">🛠️ Tools</th>
   </tr>
   <tr>
     <td>
@@ -111,12 +107,11 @@
   </tr>
 </table>
 
-<h2 style="color: #0088ff;"><i class="fa-solid fa-graduation-cap" style="color: #0088ff;"></i> Certificates</h2>
+## 🎓 Certificates
 <a href="https://www.credly.com/badges/6479e509-b1a1-4fa6-897b-a9df93da6d7f/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="ccp" width="100" height="100"/> </a>
 <a href="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE" target="_blank" rel="noreferrer"> <img src="./images/sap.png" alt="sap" width="120" height="100"/> </a>
 
-<h2 style="color: #ff0080;"><i class="fab fa-github" style="font-size: 2rem; margin-right: 10px;"></i>GitHub Profile Stats</h2>
-
+## 📊 GitHub Profile Stats
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niv-devops&layout=donut&theme=ambient_gradient)](https://github.com/niv-devops/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niv-devops&show_icons=true&theme=radical)
