@@ -34,7 +34,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://groovy-lang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/800px-Groovy-logo.svg.png" alt="groovy" width="40" height="40"/> </a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png" alt="go" width="40" height="40"/> </a>
-<a href="https://yaml.org" target="_blank" rel="noreferrer"> <img src="./images/yaml.png" alt="yaml" width="40" height="40"/> </a>
+<a href="https://yaml.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/256/9749/9749063.png" alt="yaml" width="40" height="40"/> </a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/svg12/azure_sql_database_logo_freelogovectors.net.svg" alt="sql" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer"> <img src="https://virochenko.gallerycdn.vsassets.io/extensions/virochenko/vba-fullcodesnippets/1.4.0/1699541420755/Microsoft.VisualStudio.Services.Icons.Default" alt="vba" width="40" height="40"/> </a>
 <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="./images/html.png" alt="html" width="40" height="40"/> </a>
@@ -98,7 +98,7 @@
 
 ## 🎓 Certificates
 <a href="https://www.credly.com/badges/6479e509-b1a1-4fa6-897b-a9df93da6d7f/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="ccp" width="100" height="100"/> </a>
-<a href="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE" target="_blank" rel="noreferrer"> <img src="./images/sap.png" alt="sap" width="auto" height="100"/> </a>
+<a href="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE" target="_blank" rel="noreferrer"> <img src="./images/sap.png" alt="sap" width="120" height="100"/> </a>
 
 ## </> GitHub Profile Stats
 <!-- https://github.com/anuraghazra/github-readme-stats -->
