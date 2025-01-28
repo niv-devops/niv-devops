@@ -6,7 +6,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/niv-zilberman/"><img width="auto" height="35px" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/niv-zilberman/"><img width="40px" height="auto" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://niv-devops.github.io"><img width="auto" height="35px" alt="GitHubPages" title="GitHub-Pages" src="https://cdn-icons-png.freepik.com/512/8063/8063171.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
