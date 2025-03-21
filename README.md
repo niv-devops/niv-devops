@@ -24,7 +24,10 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/niv-devops?color=FEE12B&style=for-the-badge&labelColor=FFD300&logo=star&logoColor=black"/></a>
   <a href="https://github.com/niv-devops?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/niv-devops?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  🎖
+  <a href="https://sadservers.com"><img src="https://img.shields.io/badge/SadServers-Intermediate-1155BA?style=for-the-badge&labelColor=FFD300&logo=linux&logoColor=1A237E&logoSize=auto" alt="SadServers Level"/></a>
 </p>
+
 <Table width="100%">
   <tr>
     <th align="center" width="25%">💻 Programming</th>
