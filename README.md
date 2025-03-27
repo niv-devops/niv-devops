@@ -25,7 +25,7 @@
   <a href="https://github.com/niv-devops?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/niv-devops?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   🎖
-  <a href="https://sadservers.com"><img src="https://img.shields.io/badge/SadServers-Intermediate-1155BA?style=for-the-badge&labelColor=FFD300&logo=linux&logoColor=1A237E&logoSize=auto" alt="SadServers Level"/></a>
+  <a href="https://sadservers.com"><img src="https://img.shields.io/badge/SadServers-Advanced-1155BA?style=for-the-badge&labelColor=FFD300&logo=linux&logoColor=1A237E&logoSize=auto" alt="SadServers Level"/></a>
 </p>
 
 <Table width="100%">
