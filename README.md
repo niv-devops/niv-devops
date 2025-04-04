@@ -24,8 +24,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/niv-devops?color=FEE12B&style=for-the-badge&labelColor=FFD300&logo=star&logoColor=black"/></a>
   <a href="https://github.com/niv-devops?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/niv-devops?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  🎖
-  <a href="https://sadservers.com"><img src="https://img.shields.io/badge/SadServers-Advanced-1155BA?style=for-the-badge&labelColor=FFD300&logo=linux&logoColor=1A237E&logoSize=auto" alt="SadServers Level"/></a>
 </p>
 
 <Table width="100%">
@@ -109,6 +107,10 @@
 ## 🎓 Certificates
 <a href="https://www.credly.com/badges/6479e509-b1a1-4fa6-897b-a9df93da6d7f/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="ccp" width="100" height="100"/> </a>
 <a href="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE" target="_blank" rel="noreferrer"> <img src="./images/sap.png" alt="sap" width="120" height="100"/> </a>
+
+## 🏅 Badges
+[![roadmap.sh](https://roadmap.sh/card/wide/67efa09c10c87ecc0d9b8280?variant=dark)](https://roadmap.sh)
+[![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=linux&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 
 ## 📊 GitHub Profile Stats
 <!-- https://github.com/anuraghazra/github-readme-stats -->
