@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&height=115&color=0:00ffff,100:8000ff,100:ff0080&text=Niv's%20DevOps%20Repo&section=header&textBg=false&animation=blinking&fontColor=black&fontSize=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=egg&height=115&color=0:00ffff,100:8000ff,100:ff0080&text=🔱%20Niv's%20DevOps%20Repo%20🔱&section=header&textBg=false&animation=blinking&fontColor=black&fontSize=40"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=19F302&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Practitioner;Ex+Venture+Capital+Analyst;Always+Learning+New+Things!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=19F302&center=true&vCenter=true&width=435&lines=💻+DevOps+Engineer+💻;☁️+Cloud+Practitioner+☁️;🏈+Denver+Broncos+Fan+🏈;Always+Learning+New+Things!" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
