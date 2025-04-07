@@ -1,4 +1,6 @@
-<h1 align="center">Howdy Pal 🤠 Niv's DevOps Repo</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&height=115&color=0:00ffff,100:8000ff,100:ff0080&text=Niv's%20DevOps%20Repo&section=header&textBg=false&animation=blinking&fontColor=black&fontSize=45"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=19F302&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Practitioner;Ex+Venture+Capital+Analyst;Always+Learning+New+Things!" alt="Typing SVG" /></a>
@@ -24,6 +26,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/niv-devops?color=FEE12B&style=for-the-badge&labelColor=FFD300&logo=star&logoColor=black"/></a>
   <a href="https://github.com/niv-devops?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/niv-devops?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=niv-devops&&style=for-the-badge&color=brightgreen"/>
 </p>
 
 <Table width="100%">
