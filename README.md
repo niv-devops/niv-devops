@@ -112,7 +112,7 @@
 <a href="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE" target="_blank" rel="noreferrer"> <img src="./images/sap.png" alt="sap" width="120" height="100"/> </a>
 
 ## 🏅 Badges
-[![roadmap.sh](https://roadmap.sh/card/wide/67efa09c10c87ecc0d9b8280?variant=dark&roadmaps=devops%2Cdocker%2Ckubernetes%2Clinux)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/67efa09c10c87ecc0d9b8280?variant=dark&roadmaps=devops%2Ckubernetes%2Clinux%2Cterraform)](https://roadmap.sh)
 [![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=linux&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 
 ## 📊 GitHub Profile Stats
