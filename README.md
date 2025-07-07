@@ -105,7 +105,7 @@
 
 ## 🎓 Certificates
 <a href="https://www.credly.com/badges/6479e509-b1a1-4fa6-897b-a9df93da6d7f/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="ccp" width="100" height="100"/> </a>
-<a href="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE" target="_blank" rel="noreferrer"> <img src="images/sap.png" alt="sap" width="120" height="100"/></a>
+<a href="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE" target="_blank" rel="noreferrer"> <img src="images/sap.png" alt="sap" width="100" height="100"/></a>
 
 ## 🏅 Badges
 [![roadmap.sh](https://roadmap.sh/card/wide/67efa09c10c87ecc0d9b8280?variant=dark&roadmaps=devops%2Ckubernetes%2Clinux%2Cterraform)](https://roadmap.sh)
