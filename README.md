@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/niv-zilberman/"><img width="40px" height="auto" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://niv-devops.github.io"><img width="auto" height="35px" alt="GitHubPages" title="GitHub-Pages" src="./images/website.png">
-   &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/niv-devops"><img width="40px" height="auto" alt="GitHub" title="GitHub" src="./images/github1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://gitlab.com/realgoofy"><img width="auto" height="40px" alt="GitLab" title="GitLab" src="./images/gitlab-profile.png"/></a>
