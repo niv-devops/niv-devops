@@ -19,6 +19,8 @@
   <a href="https://hub.docker.com/u/devopsgoofy"><img width="42px" height="auto" alt="DockerHub" title="DockerHub" src="./images/dockerhub.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://artifacthub.io/packages/search?user=goofy&sort=relevance&page=1"><img width="auto" height="40px" alt="HelmCharts" title="HelmCharts" src="./images/artifacthub.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://niv-devops.github.io/docs"><img width="auto" height="35px" alt="Docs" title="MKDocs" src="./images/docs.png">
 </p>
 
 <p align="center">
